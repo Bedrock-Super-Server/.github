@@ -130,4 +130,6 @@ You are free to download, use, and host servers with these binaries. However, yo
 
 Minecraft is a trademark of Mojang Studios. This project is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft.
 
+
+Discord : https://discord.gg/2xMUfQWC4g
 </div>
